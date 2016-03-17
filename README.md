@@ -1,2 +1,4 @@
 # szkolenie
 Cwynar
+# partyka
+Skorupa
