@@ -6,3 +6,6 @@ Cwynar
 Kernelko
 Michałowski
 Moanin
+Skorupa
+
+#to nie byłam ja 
