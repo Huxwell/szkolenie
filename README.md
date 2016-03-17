@@ -5,11 +5,12 @@ Skorupa
 Bogusz
 Cwynar
 elo
-# .i.
 Kernelko
 Michałowski
 # partyka to ja
 Moanin
 # partyka
+Partyka
 Skorupa
 smieszki
+
