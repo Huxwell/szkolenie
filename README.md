@@ -1,2 +1,3 @@
 # szkolenie
 # partyka
+Skorupa
