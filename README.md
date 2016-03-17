@@ -1,4 +1,7 @@
 # szkolenie
+elo
+# partyka
+Skorupa
 Cwynar
 # .i.
 # Hello Kernelko
@@ -7,3 +10,4 @@ Cwynar
 # partyka
 Skorupa
 Skorupa
+Kernelko
