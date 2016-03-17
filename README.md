@@ -2,14 +2,14 @@
 elo
 # partyka
 Skorupa
+Bogusz
 Cwynar
+elo
 # .i.
 Kernelko
 Michałowski
 # partyka to ja
-# partyka
+Moanin
 # partyka
 Skorupa
-Skorupa
-Kernelko
-Bogusz
+smieszki
