@@ -1,7 +1,7 @@
 # szkolenie
 Cwynar
 # .i.
-Kernelko
+# Hello Kernelko
 # partyka to ja
 # partyka
 # partyka
