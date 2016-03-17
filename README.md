@@ -1,2 +1,2 @@
 # szkolenie
-Bogusz~~~
+Bogusz
