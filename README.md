@@ -1,2 +1,2 @@
 # szkolenie
-# partyka
+# partyka to ja
