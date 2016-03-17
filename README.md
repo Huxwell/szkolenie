@@ -1,3 +1,3 @@
-# szkolenie
-Kuba Michałowski
+﻿# szkolenie
+Michałowski
 
