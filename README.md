@@ -1,14 +1,9 @@
 # szkolenie
-elo
-# partyka
-Skorupa
+Bogusz
 Cwynar
+elo
 # .i.
 Kernelko
 # partyka to ja
 # partyka
-# partyka
 Skorupa
-Skorupa
-Kernelko
-Bogusz
